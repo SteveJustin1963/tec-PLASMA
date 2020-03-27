@@ -1,2 +1,2 @@
 # tec-PLASMA
-TEC-1 microwave induced plazma system for experimentation
+TEC-1 microwave induced plasma system for experimentation
